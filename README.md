@@ -1,4 +1,4 @@
-# Intercampus site - home page
+# InterCampus site - home page
 
 Education project
 
